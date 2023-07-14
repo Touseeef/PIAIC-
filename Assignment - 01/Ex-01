@@ -1,0 +1,4 @@
+Installed Node.js on my Laptop
+Run command "node -v" to check version of Node
+installed typescript through command "npm install -g typescript"
+used "tsc" and "tsc --init" commands
