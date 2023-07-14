@@ -1,4 +1,5 @@
-Installed Node.js on my Laptop
+Installed "Node.js", "VS Code" & "Typescript package" on my Laptop
 Run command "node -v" to check version of Node
+changed default terminal in VS Code to cmd (command prompt)
 installed typescript through command "npm install -g typescript"
 used "tsc" and "tsc --init" commands
